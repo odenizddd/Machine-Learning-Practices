@@ -1,0 +1,1 @@
+Some machine learning concepts I've implemented on my own including linear regression, multiple regression and gradient descent.
